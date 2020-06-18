@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-dashboard-widget-amplify-deploy",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "author": "Christian Lobaugh <christian.lobaugh@gmail.com>",
   "description": "Simple dashboard widget for Sanity Studio to trigger Amplify builds",
   "homepage": "https://github.com/above5th/sanity-plugin-dashboard-widget-amplify#readme",
